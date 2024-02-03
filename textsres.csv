@@ -1,0 +1,6 @@
+Model,ROUGE-1,ROUGE-2,ROUGE-L,BLEU
+facebook/bart-large-cnn,0.311111107,0.072727269,0.311111107,4.23E+00
+google/pegasus-large,0.111111107,0,0.111111107,6.19E+00
+t5-large,0.325581391,0.086956518,0.325581391,4.71E+00
+sshleifer/distilbart-cnn-12-6,0.210526311,0.049999996,0.210526311,3.88E+00
+microsoft/prophetnet-large-uncased,0,0,0,0
